@@ -1,0 +1,425 @@
+{
+  "title": "産婦人科実習の1週間",
+  "source": "利用者提供の配付資料画像2枚",
+  "qr_count": 22,
+  "link_status": "全22個をQRデコーダーで読取。外部リンク先の公開状態・内容は未確認。",
+  "transcription_notes": [
+    "改行・空白・全角半角の一部を画面用に整形。",
+    "月曜・金曜の「終日」は午前午後の指定がない予定をまとめる表示ラベル。",
+    "アンケートは資料B-3の金曜日の下にある全実習終了後の案内。金曜日の必須予定としての指定ではない。",
+    "小テストありの表記は原資料の案内。独立したテストURLはない。"
+  ],
+  "weeks": {
+    "A": {
+      "label": "A-2",
+      "image": 1,
+      "days": [
+        {
+          "schedule": [
+            [
+              "終日",
+              "e-learning"
+            ]
+          ],
+          "note": "月曜日のあいた時間に子宮頸癌、子宮体癌・卵巣がん、性周期、婦人科の良性疾患、遺伝性乳がん卵巣がんについて勉強しましょう。",
+          "items": [
+            {
+              "id": "a-cervix",
+              "title": "子宮頸がんについて",
+              "url": "https://www.youtube.com/watch?v=nqg9Wj_Mq3Q",
+              "minutes": 25,
+              "quiz": true,
+              "kind": "video",
+              "qr_top_left": [
+                195,
+                337
+              ]
+            },
+            {
+              "id": "a-uterus",
+              "title": "子宮体がん・卵巣がんについて",
+              "url": "https://www.youtube.com/watch?v=KUAUNC8Mqjk",
+              "minutes": 15,
+              "quiz": true,
+              "kind": "video",
+              "qr_top_left": [
+                470,
+                340
+              ]
+            },
+            {
+              "id": "a-cycle",
+              "title": "性周期について",
+              "url": "https://youtu.be/abXGwOX7kJo",
+              "minutes": 25,
+              "quiz": true,
+              "kind": "video",
+              "qr_top_left": [
+                144,
+                524
+              ]
+            },
+            {
+              "id": "a-benign",
+              "title": "婦人科の良性疾患について",
+              "url": "https://youtu.be/-BkWwhT0zQE",
+              "minutes": 23,
+              "quiz": true,
+              "kind": "video",
+              "qr_top_left": [
+                343,
+                524
+              ]
+            },
+            {
+              "id": "a-hereditary",
+              "title": "遺伝性乳がん卵巣がんについて",
+              "url": "https://youtu.be/cyvyph6DeWQ",
+              "minutes": 26,
+              "quiz": true,
+              "kind": "video",
+              "qr_top_left": [
+                544,
+                529
+              ]
+            }
+          ]
+        },
+        {
+          "schedule": [
+            [
+              "午前",
+              "外来実習"
+            ],
+            [
+              "午後",
+              "カンファレンス"
+            ]
+          ],
+          "note": "火曜日のあいた時間に医療面接、婦人科診察について勉強しましょう。",
+          "items": [
+            {
+              "id": "a-interview",
+              "title": "産婦人科の医療面接について",
+              "url": "https://www.youtube.com/watch?v=XJ2yO1nJlkc",
+              "minutes": 8,
+              "quiz": false,
+              "kind": "video",
+              "qr_top_left": [
+                116,
+                869
+              ]
+            },
+            {
+              "id": "a-print",
+              "title": "医療面接のまとめプリント",
+              "url": "https://drive.google.com/file/d/1UoD_hVJ-WzUomZ-cSwcqwy9lW5sJTU-r/view",
+              "minutes": null,
+              "quiz": false,
+              "kind": "material",
+              "qr_top_left": [
+                301,
+                870
+              ]
+            },
+            {
+              "id": "a-exam",
+              "title": "産婦人科診察について",
+              "url": "https://www.youtube.com/watch?v=twPhdcJQpyw",
+              "minutes": 14,
+              "quiz": false,
+              "kind": "video",
+              "qr_top_left": [
+                522,
+                873
+              ]
+            }
+          ]
+        },
+        {
+          "schedule": [
+            [
+              "午前",
+              "医療面接・外来見学"
+            ],
+            [
+              "午後",
+              "e-learning・内診・経腟エコー"
+            ]
+          ],
+          "note": "水曜日のあいた時間に産婦人科手術、婦人科腹腔鏡手術について勉強しましょう。",
+          "items": [
+            {
+              "id": "a-surgery",
+              "title": "産婦人科の手術について",
+              "url": "https://www.youtube.com/watch?v=s_LYALhi6jU",
+              "minutes": 50,
+              "quiz": true,
+              "kind": "video",
+              "qr_top_left": [
+                959,
+                292
+              ]
+            },
+            {
+              "id": "a-laparoscopy",
+              "title": "婦人科腹腔鏡手術について",
+              "url": "https://youtu.be/C2a1jZHK_A8",
+              "minutes": 14,
+              "quiz": true,
+              "kind": "video",
+              "qr_top_left": [
+                1246,
+                290
+              ]
+            }
+          ]
+        },
+        {
+          "schedule": [
+            [
+              "午前",
+              "手術見学"
+            ],
+            [
+              "午後",
+              "e-learning"
+            ]
+          ],
+          "note": "木曜日のあいた時間に妊婦健診について勉強しましょう。",
+          "items": [
+            {
+              "id": "a-prenatal",
+              "title": "妊婦健診について",
+              "url": "https://www.youtube.com/watch?v=KzhC6l7vA58",
+              "minutes": 21,
+              "quiz": true,
+              "kind": "video",
+              "qr_top_left": [
+                1046,
+                601
+              ]
+            }
+          ]
+        },
+        {
+          "schedule": [
+            [
+              "終日",
+              "周産期レクチャー・エコー・カンファレンス・まとめ"
+            ]
+          ],
+          "note": "",
+          "items": []
+        }
+      ]
+    },
+    "B": {
+      "label": "B-3",
+      "image": 2,
+      "days": [
+        {
+          "schedule": [
+            [
+              "終日",
+              "手術見学・e-learning"
+            ]
+          ],
+          "note": "月曜日のあいた時間に分娩、回旋、bishopscore、妊娠高血圧症候群について勉強しましょう。",
+          "items": [
+            {
+              "id": "b-birth",
+              "title": "分娩について",
+              "url": "https://www.youtube.com/watch?v=vI3KR_6IOhc",
+              "minutes": 5,
+              "quiz": false,
+              "kind": "video",
+              "qr_top_left": [
+                123,
+                384
+              ]
+            },
+            {
+              "id": "b-bishop",
+              "title": "Bishop scoreについて",
+              "url": "https://youtu.be/kaaAT9wxvNk",
+              "minutes": 8,
+              "quiz": false,
+              "kind": "video",
+              "qr_top_left": [
+                336,
+                387
+              ]
+            },
+            {
+              "id": "b-rotation",
+              "title": "回旋について",
+              "url": "https://youtu.be/Scd_XoJiuHY",
+              "minutes": 18,
+              "quiz": true,
+              "kind": "video",
+              "qr_top_left": [
+                552,
+                387
+              ]
+            },
+            {
+              "id": "b-hypertension",
+              "title": "妊娠高血圧症候群について",
+              "url": "https://www.youtube.com/watch?v=5Cjr2ZdCJMA",
+              "minutes": 11,
+              "quiz": true,
+              "kind": "video",
+              "qr_top_left": [
+                174,
+                562
+              ]
+            }
+          ]
+        },
+        {
+          "schedule": [
+            [
+              "午前",
+              "腹腔鏡実習・ホログラム実習"
+            ],
+            [
+              "午後",
+              "カンファレンス・分娩実習"
+            ]
+          ],
+          "note": "火曜日のあいた時間に不妊症について勉強しましょう。",
+          "items": [
+            {
+              "id": "b-infertility",
+              "title": "不妊治療について",
+              "url": "https://www.youtube.com/watch?v=v0sj5CZg_Mw",
+              "minutes": 17,
+              "quiz": true,
+              "kind": "video",
+              "qr_top_left": [
+                168,
+                875
+              ]
+            }
+          ]
+        },
+        {
+          "schedule": [
+            [
+              "午前",
+              "外来実習"
+            ],
+            [
+              "午後",
+              "小手術見学・e-learning"
+            ]
+          ],
+          "note": "水曜日のあいた時間に帝王切開、帝王切開分娩について勉強しましょう。",
+          "items": [
+            {
+              "id": "b-caesarean",
+              "title": "帝王切開について",
+              "url": "https://www.youtube.com/watch?v=BXGvtfRfFgc",
+              "minutes": 18,
+              "quiz": true,
+              "kind": "video",
+              "qr_top_left": [
+                935,
+                188
+              ]
+            },
+            {
+              "id": "b-caesarean-birth",
+              "title": "帝王切開分娩について",
+              "url": "https://youtu.be/WlgF-N-sWrk",
+              "minutes": 2,
+              "quiz": false,
+              "kind": "video",
+              "qr_top_left": [
+                1183,
+                185
+              ]
+            }
+          ]
+        },
+        {
+          "schedule": [
+            [
+              "午前",
+              "e-learning・国家試験対策"
+            ],
+            [
+              "午後",
+              "帝王切開縫合・シネメデュケーション・帝王切開分娩"
+            ]
+          ],
+          "note": "木曜日のあいた時間に妊娠中の画像検査、国家試験対策の動画で勉強しましょう。",
+          "items": [
+            {
+              "id": "b-imaging",
+              "title": "妊娠中の画像検査について",
+              "url": "https://www.youtube.com/watch?v=CL9W2ZaM6aY",
+              "minutes": 10,
+              "quiz": true,
+              "kind": "video",
+              "qr_top_left": [
+                937,
+                463
+              ]
+            },
+            {
+              "id": "b-questions",
+              "title": "国家試験対策問題",
+              "url": "https://forms.office.com/pages/responsepage.aspx?id=g7JUf-0iPEqpRHX3VeWDBipUQ7HuuQNFqRQQfBrkHIpUOEUxWURKREc3SldaWjNRUFU2QTFOWTNaRC4u",
+              "minutes": null,
+              "quiz": false,
+              "kind": "material",
+              "qr_top_left": [
+                937,
+                587
+              ]
+            },
+            {
+              "id": "b-explanation",
+              "title": "国家試験問題の解説",
+              "url": "https://www.youtube.com/watch?v=FrOgzDVvnb0",
+              "minutes": 20,
+              "quiz": false,
+              "kind": "video",
+              "qr_top_left": [
+                1182,
+                590
+              ]
+            }
+          ]
+        },
+        {
+          "schedule": [
+            [
+              "終日",
+              "カンファレンス・まとめ"
+            ]
+          ],
+          "note": "",
+          "items": [
+            {
+              "id": "b-survey",
+              "title": "実習終了後アンケート",
+              "url": "https://forms.gle/iEW961e2KJqFCDMc9",
+              "minutes": 5,
+              "quiz": false,
+              "kind": "survey",
+              "qr_top_left": [
+                943,
+                899
+              ]
+            }
+          ],
+          "surveyNote": "大学病院、県総合すべての実習が終わったら必ずアンケートに答えて下さい（所要時間5分）",
+          "ending": "実習お疲れ様でした"
+        }
+      ]
+    }
+  }
+}
