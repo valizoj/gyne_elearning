@@ -2,12 +2,12 @@
   "title": "産婦人科実習の1週間",
   "source": "利用者提供の配付資料画像2枚",
   "qr_count": 22,
-  "link_status": "全22個をQRデコーダーで読取。外部リンク先の公開状態・内容は未確認。",
+  "link_status": "原画像のQRコード22個をデコード。小テスト対象13動画の説明文からテストURL13個を取得（2026-10-26）。フォームの回答・送信は未実施。",
   "transcription_notes": [
     "改行・空白・全角半角の一部を画面用に整形。",
     "月曜・金曜の「終日」は午前午後の指定がない予定をまとめる表示ラベル。",
     "アンケートは資料B-3の金曜日の下にある全実習終了後の案内。金曜日の必須予定としての指定ではない。",
-    "小テストありの表記は原資料の案内。独立したテストURLはない。"
+    "小テストのURLは原資料ではなく、各YouTube動画の説明文から取得。回旋の小テストは分娩・Bishop scoreと共通。"
   ],
   "weeks": {
     "A": {
@@ -33,7 +33,10 @@
               "qr_top_left": [
                 195,
                 337
-              ]
+              ],
+              "quiz_url": "https://forms.office.com/r/8nipjQkjLC",
+              "quiz_source_url": "https://www.youtube.com/watch?v=nqg9Wj_Mq3Q",
+              "quiz_verified_on": "2026-10-26"
             },
             {
               "id": "a-uterus",
@@ -45,7 +48,10 @@
               "qr_top_left": [
                 470,
                 340
-              ]
+              ],
+              "quiz_url": "https://forms.office.com/r/Una17m0gnU",
+              "quiz_source_url": "https://www.youtube.com/watch?v=KUAUNC8Mqjk",
+              "quiz_verified_on": "2026-10-26"
             },
             {
               "id": "a-cycle",
@@ -57,7 +63,10 @@
               "qr_top_left": [
                 144,
                 524
-              ]
+              ],
+              "quiz_url": "https://forms.office.com/r/bmw0X3Z0pw",
+              "quiz_source_url": "https://youtu.be/abXGwOX7kJo",
+              "quiz_verified_on": "2026-10-26"
             },
             {
               "id": "a-benign",
@@ -69,7 +78,10 @@
               "qr_top_left": [
                 343,
                 524
-              ]
+              ],
+              "quiz_url": "https://forms.office.com/r/5Ff1Yc2LJD",
+              "quiz_source_url": "https://youtu.be/-BkWwhT0zQE",
+              "quiz_verified_on": "2026-10-26"
             },
             {
               "id": "a-hereditary",
@@ -81,7 +93,10 @@
               "qr_top_left": [
                 544,
                 529
-              ]
+              ],
+              "quiz_url": "https://forms.office.com/r/mrtGFcJXX8",
+              "quiz_source_url": "https://youtu.be/cyvyph6DeWQ",
+              "quiz_verified_on": "2026-10-26"
             }
           ]
         },
@@ -159,7 +174,10 @@
               "qr_top_left": [
                 959,
                 292
-              ]
+              ],
+              "quiz_url": "https://forms.office.com/r/LMm3Kb4unJ",
+              "quiz_source_url": "https://www.youtube.com/watch?v=s_LYALhi6jU",
+              "quiz_verified_on": "2026-10-26"
             },
             {
               "id": "a-laparoscopy",
@@ -171,7 +189,10 @@
               "qr_top_left": [
                 1246,
                 290
-              ]
+              ],
+              "quiz_url": "https://forms.office.com/r/3MN0Nf5EES",
+              "quiz_source_url": "https://youtu.be/C2a1jZHK_A8",
+              "quiz_verified_on": "2026-10-26"
             }
           ]
         },
@@ -198,7 +219,10 @@
               "qr_top_left": [
                 1046,
                 601
-              ]
+              ],
+              "quiz_url": "https://forms.office.com/r/WXxGubKgmx",
+              "quiz_source_url": "https://www.youtube.com/watch?v=KzhC6l7vA58",
+              "quiz_verified_on": "2026-10-26"
             }
           ]
         },
@@ -261,7 +285,11 @@
               "qr_top_left": [
                 552,
                 387
-              ]
+              ],
+              "quiz_url": "https://forms.office.com/r/tv68a8eJa5",
+              "quiz_source_url": "https://youtu.be/Scd_XoJiuHY",
+              "quiz_verified_on": "2026-10-26",
+              "quiz_note": "分娩・Bishop scoreと共通"
             },
             {
               "id": "b-hypertension",
@@ -273,7 +301,10 @@
               "qr_top_left": [
                 174,
                 562
-              ]
+              ],
+              "quiz_url": "https://forms.office.com/r/Z99D9Q4umA",
+              "quiz_source_url": "https://www.youtube.com/watch?v=5Cjr2ZdCJMA",
+              "quiz_verified_on": "2026-10-26"
             }
           ]
         },
@@ -300,7 +331,10 @@
               "qr_top_left": [
                 168,
                 875
-              ]
+              ],
+              "quiz_url": "https://forms.office.com/r/nqLuHBZswx",
+              "quiz_source_url": "https://www.youtube.com/watch?v=v0sj5CZg_Mw",
+              "quiz_verified_on": "2026-10-26"
             }
           ]
         },
@@ -327,7 +361,10 @@
               "qr_top_left": [
                 935,
                 188
-              ]
+              ],
+              "quiz_url": "https://forms.office.com/r/JYu9sQpFXB",
+              "quiz_source_url": "https://www.youtube.com/watch?v=BXGvtfRfFgc",
+              "quiz_verified_on": "2026-10-26"
             },
             {
               "id": "b-caesarean-birth",
@@ -366,7 +403,10 @@
               "qr_top_left": [
                 937,
                 463
-              ]
+              ],
+              "quiz_url": "https://forms.office.com/r/rzTyWaWKkH",
+              "quiz_source_url": "https://www.youtube.com/watch?v=CL9W2ZaM6aY",
+              "quiz_verified_on": "2026-10-26"
             },
             {
               "id": "b-questions",
